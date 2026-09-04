@@ -12,8 +12,10 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 
 [🌐 GitHub](https://github.com/sadra-hatami) • [📧 Email](mailto:sadra.hatami.1732@gmail.com)
 
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
 [![Rubka](https://img.shields.io/badge/Rubika-Bot-8E44AD?style=for-the-badge)](https://pypi.org/)
+[![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![AsyncIO](https://img.shields.io/badge/AsyncIO-Asynchronous-2C3E50?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
 [![aiohttp](https://img.shields.io/badge/aiohttp-HTTP%20Client-2C3E50?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.aiohttp.org/)
@@ -26,6 +28,8 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 [![AI](https://img.shields.io/badge/AI-Integrated-FF6F00?style=for-the-badge)]()
 [![Automation](https://img.shields.io/badge/Automation-Enabled-0078D6?style=for-the-badge)]()
 [![Group Management](https://img.shields.io/badge/Group%20Management-Advanced-2E7D32?style=for-the-badge)]()
+![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
+
 
 </div>
 
