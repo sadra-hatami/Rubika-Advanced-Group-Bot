@@ -12,6 +12,7 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 
 [🌐 GitHub](https://github.com/sadra-hatami) • [📧 Email](mailto:sadra.hatami.1732@gmail.com)
 
+<br>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
 [![Rubka](https://img.shields.io/badge/Rubika-Bot-8E44AD?style=for-the-badge)](https://pypi.org/)
