@@ -10,7 +10,7 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 
 ### Developer • Software Engineer • Creator
 
-🌐 [GitHub](https://github.com/sadra-hatami) • 📧 Email: `sadra.hatami.1732@gmail.com`
+🌐 [GitHub](https://github.com/sadra-hatami) • [📧 Email](mailto:sadra.hatami.1732@gmail.com)
 
 </div>
 
