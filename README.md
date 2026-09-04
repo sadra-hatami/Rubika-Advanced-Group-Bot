@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🤖 Rubika Smart Bot
 
 ### A Powerful Persian Rubika Group Management, Entertainment & AI Bot
@@ -9,6 +11,8 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 ### Developer • Software Engineer • Creator
 
 🌐 [GitHub](https://github.com/sadra-hatami) • 📧 Email: `sadra.hatami.1732@gmail.com`
+
+</div>
 
 ---
 
