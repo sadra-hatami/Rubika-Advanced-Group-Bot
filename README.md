@@ -1,11 +1,12 @@
 <div align="center">
 
 # Rubika Smart Bot
+
 # 🤖
 
-### A Powerful Persian Rubika Group Management, Entertainment & AI Bot
+### A Powerful Persian Rubika Group Management, Automation & AI Bot
 
-A comprehensive multifunctional Rubika bot combining advanced group management, security systems, AI interaction, learning, entertainment, custom commands, useful utilities, and automated group controls in one platform.
+A comprehensive multifunctional Rubika bot built with Python, featuring advanced group management, moderation, automation, AI integration, learning systems, entertainment, user progression, custom commands, and database-backed group configuration.
 
 # 👨‍💻 Sadra Hatami
 
@@ -16,22 +17,17 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Rubka](https://img.shields.io/badge/Rubika-Bot-8E44AD?style=for-the-badge)](https://pypi.org/)
-[![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
+[![Rubka](https://img.shields.io/badge/Rubka-Rubika%20Bot-8E44AD?style=for-the-badge)](https://pypi.org/)
 [![AsyncIO](https://img.shields.io/badge/AsyncIO-Asynchronous-2C3E50?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
-[![aiohttp](https://img.shields.io/badge/aiohttp-HTTP%20Client-2C3E50?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.aiohttp.org/)
-[![Requests](https://img.shields.io/badge/Requests-HTTP%20Library-20232A?style=for-the-badge\&logo=python\&logoColor=white)](https://requests.readthedocs.io/)
-[![HTTPX](https://img.shields.io/badge/HTTPX-HTTP%20Client-5A29E4?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python-httpx.org/)
+[![aiohttp](https://img.shields.io/badge/aiohttp-HTTP%20Client-2C3E50?style=for-the-badge)](https://docs.aiohttp.org/)
+[![Requests](https://img.shields.io/badge/Requests-HTTP%20Library-20232A?style=for-the-badge)](https://requests.readthedocs.io/)
+[![HTTPX](https://img.shields.io/badge/HTTPX-HTTP%20Client-5A29E4?style=for-the-badge)](https://www.python-httpx.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Parsing-4CAF50?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
+[![AI](https://img.shields.io/badge/AI-Integrated-FF6F00?style=for-the-badge)](#-ai-system)
+[![Automation](https://img.shields.io/badge/Automation-Enabled-0078D6?style=for-the-badge)](#-automation)
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Rubika-8E44AD?style=for-the-badge)](https://rubika.ir/)
-[![AI](https://img.shields.io/badge/AI-Integrated-FF6F00?style=for-the-badge)]()
-[![Automation](https://img.shields.io/badge/Automation-Enabled-0078D6?style=for-the-badge)]()
-[![Group Management](https://img.shields.io/badge/Group%20Management-Advanced-2E7D32?style=for-the-badge)]()
-![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
-
 
 </div>
 
@@ -39,172 +35,268 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 
 # 📑 Table of Contents
 
-* [About](#-about)
-* [Why Rubika Smart Bot?](#-why-rubika-smart-bot)
-* [Key Features](#-key-features)
-* [Group Management](#-group-management)
-* [Security & Moderation](#-security--moderation)
-* [AI System](#-ai-system)
-* [Learning System](#-learning-system)
-* [Entertainment](#-entertainment)
-* [Utilities](#-utilities)
-* [User Roles & Permissions](#-user-roles--permissions)
-* [Database](#-database)
-* [Technologies](#-technologies)
-* [Usage](#-usage)
-* [Command Examples](#-command-examples)
-* [Target Audience](#-target-audience)
-* [Project Highlights](#-project-highlights)
-* [Roadmap](#-roadmap)
-* [FAQ](#-frequently-asked-questions)
-* [Contributing](#-contributing)
-* [Contact](#-contact)
-* [License](#-license)
+* [📖 About](#-about)
+* [🚀 Why Rubika Smart Bot?](#-why-rubika-smart-bot)
+* [✨ Key Features](#-key-features)
+* [👑 Group Management](#-group-management)
+* [🛡️ Security & Moderation](#️-security--moderation)
+* [🤖 AI System](#-ai-system)
+* [🧠 Learning System](#-learning-system)
+* [👤 User System](#-user-system)
+* [🏆 Levels, XP & Badges](#-levels-xp--badges)
+* [⚙️ Automation](#️-automation)
+* [🎮 Games & Entertainment](#-games--entertainment)
+* [📊 Reports & Statistics](#-reports--statistics)
+* [💾 Database](#-database)
+* [🌐 External Services](#-external-services)
+* [🛠️ Technologies](#️-technologies)
+* [🚀 Installation](#-installation)
+* [⚙️ Configuration](#️-configuration)
+* [▶️ Usage](#️-usage)
+* [📚 Command Examples](#-command-examples)
+* [🎯 Target Audience](#-target-audience)
+* [🌟 Project Highlights](#-project-highlights)
+* [🗺️ Roadmap](#️-roadmap)
+* [❓ FAQ](#-faq)
+* [🤝 Contributing](#-contributing)
+* [📬 Contact](#-contact)
+* [📄 License](#-license)
 
 ---
 
 # 📖 About
 
-**Rubika Smart Bot** is a multifunctional Persian Rubika group bot developed to provide advanced management, moderation, entertainment, learning, AI interaction, and utility features.
+**Rubika Smart Bot** is a multifunctional Persian Rubika group bot developed with Python.
 
-The bot is designed to help group owners and administrators manage their communities more efficiently while providing interactive features for regular members.
+The project combines group administration, moderation, automation, AI interaction, learning, entertainment, user progression, custom commands, information services, and persistent database storage into a single platform.
 
-It combines group security systems, permission management, automatic controls, AI-powered conversations, custom commands, learning capabilities, games, information services, and entertainment features in a single bot.
+The bot is designed primarily for Persian-speaking Rubika communities and provides administrators with a broad set of configurable tools for managing group activity.
 
-The project is primarily designed for Persian-speaking Rubika communities and focuses on creating a powerful yet practical group management experience.
-
-> **Tagline:** A powerful Persian Rubika bot combining intelligent management, security, entertainment, learning, and AI.
+The current implementation is centered around a large asynchronous Python application with SQLite-based persistence and multiple external HTTP/API integrations.
 
 ---
 
 # 🚀 Why Rubika Smart Bot?
 
-Rubika Smart Bot was created to bring multiple group management and entertainment capabilities together in one platform.
+Managing a large group often requires multiple systems for moderation, permissions, automation, interaction, and entertainment.
 
-Instead of using separate systems for moderation, administration, entertainment, learning, and automated responses, group administrators can use a unified bot with multiple integrated features.
+**Rubika Smart Bot** brings these capabilities together into one configurable platform.
 
 The project focuses on:
 
-* 🛡️ Improving group security
-* ⚙️ Simplifying group management
-* 🤖 Providing intelligent AI interaction
-* 🧠 Supporting learning and custom responses
-* 🎮 Making groups more interactive
-* 🔧 Providing useful automated tools
-* 👑 Giving administrators flexible permission management
-* 🇮🇷 Supporting Persian-speaking Rubika communities
+* 🛡️ Group security and moderation
+* ⚙️ Administrative automation
+* 🤖 AI-powered interaction
+* 🧠 Learning and custom responses
+* 👤 User management and permissions
+* 🏆 XP, levels, badges, and leaderboards
+* 🎮 Interactive games
+* 📊 Group reports and statistics
+* 💾 Persistent SQLite storage
+* 🔧 Customizable group behavior
+* 🇮🇷 Persian-language interaction
 
 ---
 
 # ✨ Key Features
 
-* 🤖 AI-powered conversations
-* 🛡️ Advanced group management
-* 🔗 Anti-Link system
-* 📢 Anti-Advertisement system
-* 🤬 Anti-Curse system
-* 🚫 Anti-Mention system
-* ✏️ Anti-Edit system
-* 😀 Anti-Emoji system
-* 🎞️ GIF control
-* 🧹 Automatic message deletion
-* 🔒 Group lock and unlock
-* 👑 Group owner management
-* ⭐ Special user management
-* 👮 Assistant administrators
-* 🧠 Learning system
-* 💬 Custom commands
-* 🧮 Calculator
-* 🎮 Mathematical games
-* 🔤 Word games
-* 🔢 Number guessing
-* 📜 Hafez fortune
-* 🎲 Daily fortune
-* 🧩 Riddles
-* 😂 Jokes
-* 💡 Motivational messages
-* 📖 Hadith
-* 📰 News
-* 🖼️ Image retrieval
-* 🌤️ Weather information
-* 💰 Financial information
-* 🗣️ Speaker system
-* 🔊 Text-to-speech
-* 📊 Group statistics
-* ⚙️ Customizable group settings
-* 💾 SQLite database
+## 🤖 Intelligence & Interaction
+
+* AI-powered question answering
+* Advanced learning system
+* Custom commands
+* Automatic responses
+* Speaker system
+* Personal speaker
+* Polite speaker mode
+* Default speaker mode
+* Text-to-speech related functionality
+
+## 👑 Group Administration
+
+* Group owner management
+* Assistant administrators
+* Special users
+* Exempt users
+* Group rules
+* Group status
+* Group lock system
+* Ban locks
+* Warning locks
+* User warnings
+* Mute management
+* Customizable permissions
+
+## 🛡️ Moderation & Protection
+
+* Anti-Link
+* Anti-Advertisement
+* Anti-Curse
+* Anti-Hang
+* Anti-Emoji
+* Anti-Edit
+* Anti-Mention
+* GIF control
+* Content-type locks
+* Bot protection
+* CAPTCHA configuration
+* Blacklist words
+* Whitelist links
+* Warning system
+* Automatic message deletion
+
+## 🏆 User Engagement
+
+* XP system
+* User levels
+* Level-based badges
+* Group leaderboard
+* User profiles
+* User notes
+* Achievements
+* Daily rewards
+* Favorites
+* Birthdays
+
+## 🎮 Entertainment
+
+* Mathematical game
+* Word game
+* Number guessing game
+* Dice game
+* Hafez fortune
+* Riddles
+* Jokes
+* Interesting facts
+* Movie suggestions
+* English tips
+* Motivational content
+* Hadith
+
+## 📊 Group Tools
+
+* Reports
+* Group statistics
+* Polls
+* Events
+* Petitions
+* Giveaways
+* Timers
+* Reminders
+* Topics
+* Tags
+* Invite links
+* Log channels
+* Custom reactions
+* Auto responders
 
 ---
 
 # 👑 Group Management
 
-Rubika Smart Bot provides a wide range of tools for controlling and managing groups.
+Rubika Smart Bot provides a multi-level administration system designed for group owners and administrators.
 
-### ⚡ Bot Control
+## ⚡ Bot Control
 
-Administrators can control the bot's status inside the group.
+Administrators can control the bot's operating status:
 
 ```text
 ربات روشن
 ربات خاموش
 ```
 
-### 📜 Group Rules
+## 📜 Group Rules
 
-Group administrators can view and configure group rules.
+Group rules can be viewed and configured:
 
 ```text
 قوانین
 تنظیم قوانین
 ```
 
-### 🔒 Group Lock
+## 🔒 Group Locks
 
-The bot supports temporary group locking.
+The bot supports configurable locks for different types of content.
+
+Supported lock categories include:
+
+* ID
+* Links
+* Text
+* Stickers
+* Voice
+* Video
+* Music
+* Images
+* GIFs
+* Files
+* English words
+* Replies
+* Forwards
+* Edits
+* Emojis
+* Code
+* Curse words
+* Polls
+* Numbers
+* Phone numbers
+* Hashtags
+* Groups
+
+Example:
 
 ```text
-قفل گروه
+لینک قفل
+لینک باز
 ```
 
-The locking system can be configured with a specified duration.
+## 🔇 Warning & Mute Management
 
-### 🔓 Group Unlock
+Administrators can manage user warnings and muted users.
 
-Administrators can unlock the group when necessary.
+The system supports:
 
-### 👑 Ownership Management
-
-The bot supports group ownership management and ownership transfer features.
+* Adding warnings
+* Removing warnings
+* Warning limits
+* Configurable warning actions
+* Temporary mute
+* Permanent mute
+* Mute lists
+* Clearing mute data
 
 ---
 
 # 🛡️ Security & Moderation
 
-One of the main parts of Rubika Smart Bot is its group security and moderation system.
+Security and moderation are core components of the project.
 
-The bot includes multiple protection systems:
+The bot provides configurable moderation systems such as:
 
-| System                | Purpose                                |
-| --------------------- | -------------------------------------- |
-| 🔗 Anti-Link          | Control and prevent unwanted links     |
-| 📢 Anti-Advertisement | Control advertisements                 |
-| 🤬 Anti-Curse         | Control inappropriate language         |
-| 🚫 Anti-Mention       | Control unwanted mentions              |
-| ✏️ Anti-Edit          | Control edited messages                |
-| 😀 Anti-Emoji         | Control excessive emoji usage          |
-| 🎞️ GIF Control       | Manage GIF messages                    |
-| 🧹 Auto Delete        | Automatically remove selected messages |
-| 🔒 Group Lock         | Temporarily restrict group activity    |
+| System                | Function                              |
+| --------------------- | ------------------------------------- |
+| 🔗 Anti-Link          | Controls unwanted links               |
+| 📢 Anti-Advertisement | Controls advertisements               |
+| 🤬 Anti-Curse         | Filters inappropriate language        |
+| 🌀 Anti-Hang          | Controls problematic message patterns |
+| 😀 Anti-Emoji         | Controls emoji-based content          |
+| ✏️ Anti-Edit          | Controls edited messages              |
+| 🚫 Anti-Mention       | Controls unwanted mentions            |
+| 🎞️ GIF Control       | Controls GIF messages                 |
+| 🤖 Bot Protection     | Helps manage bot accounts             |
+| 🧩 CAPTCHA            | Supports group verification settings  |
+| 📝 Blacklist          | Blocks configured words               |
+| 🔗 Whitelist          | Allows configured links               |
 
-These systems can be configured through the bot's group settings.
+Each group can maintain its own configuration.
 
 ---
 
 # 🤖 AI System
 
-Rubika Smart Bot includes an AI interaction system that allows users to communicate with the bot through a simple command format.
+The bot includes an AI interaction system connected through an external API.
 
-Questions can be sent using the `+` prefix.
+Users can send a question using the `+` prefix.
 
 Example:
 
@@ -212,355 +304,606 @@ Example:
 +پایتون چیست؟
 ```
 
-The bot processes the question and returns an AI-generated response.
+The bot sends the request to the configured AI service and returns the response to the group.
 
-This feature makes the bot more than just a traditional management bot and provides an interactive AI experience inside Rubika groups.
+The AI endpoint is configurable through the bot's configuration variables.
+
+> ⚠️ API credentials and private tokens should never be committed to the public repository.
 
 ---
 
 # 🧠 Learning System
 
-The bot includes a learning system that allows it to learn custom responses.
+The project contains both custom-command functionality and an advanced learning system.
 
-### Basic Learning
+## Basic Custom Learning
 
-Custom responses can be created using the `!` command format.
-
-Example:
-
-```text
-!hello
-```
-
-### Advanced Learning
-
-The bot also supports an advanced learning format using:
-
-```text
-!!
-```
-
-The learning system allows groups to create their own customized responses and interactions.
-
----
-
-# 💬 Custom Commands
-
-Groups can create customized commands for specific responses.
-
-For example:
-
-```text
-!سلام
-```
-
-can be configured to produce a predefined response.
-
-This allows each group to personalize the bot according to its own needs.
-
----
-
-# 🎮 Entertainment
-
-Rubika Smart Bot provides multiple entertainment systems designed to make group conversations more interactive.
-
-Available entertainment features include:
-
-* 🧮 Mathematical challenges
-* 🔤 Word games
-* 🔢 Number guessing
-* 🧩 Riddles
-* 😂 Jokes
-* 📜 Hafez fortune
-* 🎲 Daily fortune
-* 💬 Dialogues
-* 💡 Motivational messages
-* 📖 Hadith
-
-These features are designed for casual group interaction and entertainment.
-
----
-
-# 🛠️ Utilities
-
-The bot also provides several useful information and utility systems.
-
-### 🧮 Calculator
-
-A built-in calculator can perform mathematical calculations directly through the bot.
-
-### 🌤️ Weather
-
-Weather-related information can be requested through the bot.
-
-### 💰 Financial Information
-
-The bot provides financial information such as market-related data.
-
-### 📰 News
-
-Users can request news through the bot.
-
-### 🖼️ Image Retrieval
-
-The bot can retrieve images based on user requests.
+Groups can define custom commands and responses.
 
 Example:
 
 ```text
-عکس گربه
+!سلام!سلام صدرا!
 ```
 
-### 🔊 Speaker & Text-to-Speech
+The bot stores the custom response for future use.
 
-The bot includes speaker-related functionality and text-to-speech capabilities.
+## Advanced Learning
 
----
+The advanced learning system supports storing multiple responses for keywords.
 
-# 👮 User Roles & Permissions
+It also supports removing:
 
-Rubika Smart Bot uses different levels of permissions to control access to administrative features.
+* All responses for a keyword
+* A specific response for a keyword
 
-### 👑 Group Owner
+Example formats include:
 
-The group owner has the highest level of permissions and can configure important bot settings.
+```text
+!keyword!response
+```
 
-### ⭐ Special Users
+and:
 
-Special users can receive additional permissions and can be excluded from selected moderation systems.
+```text
+!!keyword
+```
 
-### 👮 Assistant Administrators
-
-Assistant administrators can perform selected administrative operations.
-
-### 👤 Regular Users
-
-Regular users can access features such as:
-
-* AI
-* Entertainment
-* Games
-* Learning
-* Calculator
-* Information services
-* Custom commands
+The stored learning data is persisted in SQLite.
 
 ---
 
-# 🏅 User Badges
+# 👤 User System
 
-The bot also provides user status and badge systems.
+Rubika Smart Bot maintains user-related data for each group.
 
-Examples include:
+The system supports:
 
-* 👑 Group Founder
-* 👮 Group Administrator
-* ⭐ Special User
-* 👤 Regular Member
+* User profiles
+* User notes
+* User warnings
+* User badges
+* User achievements
+* User levels
+* XP
+* Favorites
+* Birthdays
+* Daily rewards
+* Cooldowns
+* Reports
 
-These roles help the bot identify different levels of access inside groups.
+This allows the bot to provide personalized and persistent functionality for group members.
 
 ---
 
-# 📊 Group Statistics
+# 🏆 Levels, XP & Badges
 
-The bot can maintain and display information related to group activity and configuration.
+The project includes a gamified user progression system.
 
-Statistics and settings can include:
+Users can earn XP through supported interactions and games.
 
-* Bot status
-* Speaker status
-* Anti-Link status
-* Anti-Advertisement status
-* Anti-Curse status
-* Anti-Hang status
-* Anti-Emoji status
-* Anti-Edit status
-* Anti-Mention status
-* GIF control
-* Auto-delete
-* Learning status
-* Calculator status
-* Learning count
-* Custom commands
+The system maintains:
+
+* Current XP
+* Current level
+* XP required for the next level
+* XP progress
+* Group leaderboard
+* User badges
+* Level-based achievements
+
+Special badges are awarded at specific levels.
+
+The current implementation includes badge milestones such as:
+
+```text
+Level 10 → Silver
+Level 20 → Gold
+Level 50 → Diamond
+```
+
+Users can also view the leaderboard:
+
+```text
+لیست برترین‌ها
+```
+
+and their earned badges.
+
+---
+
+# ⚙️ Automation
+
+The bot contains several automation systems for reducing repetitive administrative tasks.
+
+### 🧹 Automatic Message Deletion
+
+Administrators can enable automatic deletion and configure its timing.
+
+```text
+حذف خودکار روشن
+حذف خودکار خاموش
+```
+
+### ⏱️ Timers
+
+Command timers and group timers can be stored and managed.
+
+### 🔔 Reminders
+
+Groups can maintain reminders for users and scheduled events.
+
+### 👋 Welcome & Goodbye
+
+The database architecture includes configurable welcome and goodbye messages.
+
+### 🤖 Auto Responders
+
+Groups can define automated responses for specific triggers.
+
+### 🏷️ Auto Roles
+
+The project includes database support for automatic group roles based on user levels.
+
+---
+
+# 🎮 Games & Entertainment
+
+The bot provides several interactive games.
+
+## 🧮 Math Game
+
+```text
+بازی ریاضی
+```
+
+## 🔤 Word Game
+
+```text
+بازی کلمات
+```
+
+## 🔢 Number Guessing
+
+```text
+بازی حدس عدد
+```
+
+## 🎲 Dice Game
+
+Users can make an even/odd prediction:
+
+```text
+تاس زوج
+```
+
+or:
+
+```text
+تاس فرد
+```
+
+## 🍃 Hafez Fortune
+
+```text
+فال حافظ
+```
+
+## 🧩 Riddles
+
+```text
+معما
+جواب معما
+```
+
+## 😂 Jokes
+
+```text
+لطیفه
+```
+
+The project also includes additional interactive content such as interesting facts, movie suggestions, English tips, and other informational responses.
+
+---
+
+# 📊 Reports & Statistics
+
+The bot maintains message and activity statistics.
+
+Supported report categories include:
+
+* Text messages
+* Photos
+* Videos
+* Stickers
+* Files
+* Links
+* Forwarded messages
+
+Administrators can request group reports using:
+
+```text
+گزارشات
+```
+
+The bot also provides configuration status information for various group systems.
+
+---
+
+# 🗳️ Polls, Events & Community Tools
+
+The database architecture includes support for several community-oriented features.
+
+### 🗳️ Advanced Polls
+
+Polls can include:
+
+* Questions
+* Multiple options
+* Anonymous voting
+* Multiple-choice configuration
+* End times
+* Vote tracking
+
+### 📅 Events
+
+Groups can create and manage events with:
+
+* Event name
+* Event description
+* Event time
+* Participants
+* Creator
+
+### ✍️ Petitions
+
+The bot supports petition-related data including:
+
+* Title
+* Description
+* Target votes
+* Current votes
+* Signatures
+* End time
+
+### 🎁 Giveaways
+
+Giveaways can store:
+
+* Prize
+* Winner count
+* Participants
+* End time
+* Creator
 
 ---
 
 # 💾 Database
 
-Rubika Smart Bot uses **SQLite** for storing bot and group-related data.
+The project uses **SQLite** as its persistent database.
 
-The database can store information related to:
+The database is automatically initialized by the application and contains multiple tables for storing group and user information.
 
-* 👥 Users
-* 💬 Groups
-* ⚙️ Group settings
-* 🧠 Learning data
-* 💬 Custom commands
-* 👮 Assistant administrators
-* ⭐ Special users
-* 🔐 Permissions
-* 📊 Bot statistics
+Major database areas include:
 
-SQLite provides a lightweight database solution suitable for a Python-based bot.
+* User levels
+* User badges
+* Custom commands
+* Warnings
+* Invites
+* Topics
+* Birthdays
+* Reminders
+* Blacklists
+* Whitelists
+* Logs
+* Auto roles
+* User notes
+* Giveaways
+* Quizzes
+* Events
+* Achievements
+* Filters
+* Auto responders
+* Cooldowns
+* Welcome messages
+* Goodbye messages
+* CAPTCHA settings
+* Timers
+* Music queues
+* Favorites
+* Custom reactions
+* Petitions
+* Daily rewards
+* Voice chat settings
+* Bot protection
+* Tags
+* Polls
+* Group links
+* Group settings
+* Locks
+
+The database file is:
+
+```text
+chats.db
+```
+
+---
+
+# 🌐 External Services
+
+The project communicates with several external HTTP services for different features.
+
+These integrations are used for capabilities such as:
+
+* 🤖 AI responses
+* 📰 News
+* 💰 Cryptocurrency information
+* 💱 Currency information
+* 📅 Date and time information
+* 🌤️ Weather
+* 🖼️ Image retrieval
+* 📱 Application search
+* 🎂 Birthday information
+* 🔊 Speaker/TTS functionality
+* 📚 Other information services
+
+External endpoints can change independently of the project.
 
 ---
 
 # 🛠️ Technologies
 
-| Technology       | Purpose                                         |
-| ---------------- | ----------------------------------------------- |
-| 🐍 Python        | Main programming language                       |
-| ⚡ asyncio        | Asynchronous programming                        |
-| 🤖 Rubka         | Rubika bot development                          |
-| 🌐 aiohttp       | Asynchronous HTTP requests                      |
-| 🌐 requests      | HTTP requests and API communication             |
-| 🌐 httpx         | HTTP client                                     |
-| 🍲 BeautifulSoup | Web content processing                          |
-| 📅 jdatetime     | Persian date and time                           |
-| 💾 SQLite        | Database management                             |
-| 🔌 External APIs | AI, news, motivational and information services |
+| Technology             | Purpose                             |
+| ---------------------- | ----------------------------------- |
+| 🐍 Python              | Main programming language           |
+| ⚡ asyncio              | Asynchronous programming            |
+| 🤖 Rubka               | Rubika bot framework                |
+| 💾 SQLite              | Persistent data storage             |
+| 🌐 aiohttp             | Asynchronous HTTP requests          |
+| 🌐 Requests            | HTTP requests                       |
+| 🌐 HTTPX               | HTTP client                         |
+| 🍲 BeautifulSoup       | Web scraping and HTML parsing       |
+| 📅 jdatetime           | Persian date and time               |
+| 🔐 hashlib             | Hashing functionality               |
+| 🧩 Regular Expressions | Text processing and command parsing |
+| 🔌 External APIs       | AI and information services         |
 
 ---
 
-# ▶️ Usage
+# 🚀 Installation
 
 ## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/sadra-hatami/Rubika-Smart-Bot.git
-```
-
-## 2. Enter the Project Directory
-
-```bash
 cd Rubika-Smart-Bot
 ```
 
-## 3. Install Dependencies
+## 2. Install Dependencies
+
+Install the required Python packages used by the project.
 
 ```bash
-pip install -r requirements.txt
+pip install rubka aiohttp requests httpx beautifulsoup4 jdatetime
 ```
 
-## 4. Configure the Bot
+## 3. Configure the Bot
 
-Configure your bot credentials and required API settings.
+Configure your private credentials and API settings before running the application.
 
-## 5. Run the Bot
+## 4. Run the Bot
 
 ```bash
-python هاست.py
+python index.py
 ```
 
 ---
 
 # ⚙️ Configuration
 
-Before running the bot, configure the required credentials.
+The bot uses configuration variables for its database, administrator information, channel information, and external API settings.
 
-For example:
+Example:
+
+```python
+DB_PATH = "chats.db"
+
+ADMIN_CHAT_ID = "your_admin_chat_id"
+ADMIN_ID = [ADMIN_CHAT_ID]
+
+CHANNEL_LINK = "@your_channel"
+CHANNEL_CREATOR = "@your_creator"
+
+AI_API_URL = "your_ai_api_url"
+```
+
+The bot token should be configured separately and must not be committed to GitHub.
+
+### 🔐 Security Recommendation
+
+For production use, sensitive values should be stored in environment variables or a `.env` file.
+
+Example:
 
 ```env
 BOT_TOKEN=your_bot_token
 ADMIN_CHAT_ID=your_admin_chat_id
+CHANNEL_LINK=@your_channel
+CHANNEL_CREATOR=@your_creator
+AI_API_URL=your_ai_api_url
 ```
 
-> ⚠️ **Security Warning:** Never publish your real Rubika bot token, API keys, or other private credentials in a public GitHub repository.
+Add the following to `.gitignore`:
 
-It is recommended to use environment variables or a `.env` file for sensitive information.
+```gitignore
+.env
+chats.db
+__pycache__/
+*.pyc
+```
 
 ---
 
-# 🚀 Activating the Bot in a Group
+# ▶️ Usage
 
-To use the bot in a Rubika group:
+## Add the Bot to a Group
 
-### Step 1
-
-Add the bot to your group.
-
-### Step 2
-
-Give the bot the required administrator permissions.
-
-### Step 3
-
-Send:
+1. Add the bot to your Rubika group.
+2. Give it the required administrator permissions.
+3. Register the group using the activation command.
 
 ```text
 فعال
 ```
 
-The bot can then register the group owner and begin operating according to the configured settings.
+## View Help
+
+```text
+راهنما
+```
+
+or:
+
+```text
+دستورات
+```
+
+## Check Group Status
+
+```text
+وضعیت
+```
 
 ---
 
 # 📚 Command Examples
 
-## 🤖 Bot Commands
+### 🤖 Bot Control
 
 ```text
 ربات روشن
 ربات خاموش
 ```
 
-## 📜 Rules
+### 📜 Rules
 
 ```text
 قوانین
 تنظیم قوانین
 ```
 
-## 🔒 Group Management
+### 🛡️ Moderation
 
 ```text
-قفل گروه
-باز کردن قفل گروه
+ضد لینک روشن
+ضد لینک خاموش
+
+ضد تبلیغ روشن
+ضد تبلیغ خاموش
+
+ضد فحش روشن
+ضد فحش خاموش
+
+ضد ایموجی روشن
+ضد ایموجی خاموش
+
+ضد ویرایش روشن
+ضد ویرایش خاموش
+
+ضد منشن روشن
+ضد منشن خاموش
 ```
 
-## 🤖 AI
+### 🧹 Auto Delete
+
+```text
+حذف خودکار روشن
+حذف خودکار خاموش
+حذف خودکار زمان 30
+```
+
+### 🗣️ Speaker
+
+```text
+سخنگو روشن
+سخنگو خاموش
+
+سخنگو شخصی روشن
+سخنگو شخصی خاموش
+
+سخنگو باادب روشن
+سخنگو بی ادب روشن
+```
+
+### 🤖 AI
 
 ```text
 +پایتون چیست؟
 ```
 
-## 🧠 Learning
+### 🧠 Learning
 
 ```text
-!hello
+!سلام!سلام!
 ```
 
-## ❓ Help
+### 🏆 User Progress
 
 ```text
-راهنما
-دستورات
+لیست برترین‌ها
+```
+
+### 🎮 Games
+
+```text
+بازی ریاضی
+بازی کلمات
+بازی حدس عدد
+```
+
+### 🎲 Entertainment
+
+```text
+فال حافظ
+معما
+جواب معما
+لطیفه
+حقیقت جالب
+پیشنهاد فیلم
+نکته انگلیسی
+```
+
+### 📊 Reports
+
+```text
+گزارشات
 ```
 
 ---
 
 # 🎯 Target Audience
 
-### 👑 Group Owners
+### 👑 Rubika Group Owners
 
-For users who need powerful tools to manage their Rubika groups.
+For administrators who need a centralized group management and moderation system.
 
 ### 👮 Group Administrators
 
-For administrators who need moderation, security, and automation features.
+For managing rules, permissions, warnings, locks, users, and automated systems.
 
 ### 🤖 Bot Developers
 
-For developers interested in building multifunctional Rubika bots with Python.
+For developers interested in Python-based Rubika bot development.
 
 ### 🐍 Python Developers
 
-For developers interested in asynchronous Python applications, APIs, databases, and automation.
+For developers interested in asynchronous applications, APIs, databases, automation, and message-driven systems.
 
-### 👥 Rubika Communities
+### 👥 Persian-Speaking Communities
 
-For communities looking for an interactive management and entertainment bot.
+For Rubika groups looking for management, interaction, entertainment, and automation features in Persian.
 
 ---
 
@@ -568,102 +911,120 @@ For communities looking for an interactive management and entertainment bot.
 
 ✅ Multifunctional Persian Rubika bot
 
-✅ Advanced group management system
+✅ Large-scale Python implementation
 
-✅ Multiple security and moderation systems
+✅ Asynchronous architecture using `asyncio`
 
-✅ AI-powered interaction
+✅ SQLite-based persistent storage
 
-✅ Learning and custom command system
+✅ Advanced group moderation
 
-✅ Multiple entertainment features
+✅ Multi-level permission system
 
-✅ User roles and permission management
+✅ AI API integration
 
-✅ SQLite-based data storage
+✅ Advanced learning system
 
-✅ Asynchronous Python architecture
+✅ Custom command engine
 
-✅ Useful information and utility systems
+✅ XP, levels, badges, and leaderboard
 
-✅ Designed for Persian-speaking Rubika communities
+✅ Multiple interactive games
+
+✅ Automated group controls
+
+✅ Warnings and mute management
+
+✅ CAPTCHA and bot protection support
+
+✅ Polls, events, petitions, and giveaways
+
+✅ Timers and reminders
+
+✅ User profiles and achievements
+
+✅ Extensive external API integrations
 
 ---
 
-# 🚀 Roadmap
+# 🗺️ Roadmap
 
-Rubika Smart Bot is an evolving project. Future updates may include:
+Future development may include:
 
 * [ ] 🤖 More advanced AI capabilities
-* [ ] 🧠 Improved learning system
-* [ ] 🛡️ More moderation tools
-* [ ] 🎮 More games and entertainment features
-* [ ] 📊 Advanced group analytics
-* [ ] ⚙️ Improved configuration system
-* [ ] 💾 Improved database architecture
-* [ ] 🔐 Enhanced security
-* [ ] 🌐 Web-based management panel
-* [ ] 📱 Additional management interfaces
-* [ ] ⚡ Performance improvements
-* [ ] 🔧 More customization options
+* [ ] 🧠 Improved learning architecture
+* [ ] 🛡️ More advanced moderation systems
+* [ ] 📊 Advanced analytics dashboard
+* [ ] 🌐 Web-based administration panel
+* [ ] 📱 Dedicated management interface
+* [ ] ⚡ Performance optimization
+* [ ] 🧩 Modular command architecture
+* [ ] 🔐 Improved secrets management
+* [ ] 🧪 Automated testing
+* [ ] 📝 Expanded documentation
+* [ ] 🐳 Docker deployment
+* [ ] 🔄 Improved database architecture
 
 ---
 
-# ❓ Frequently Asked Questions
+# ❓ FAQ
 
-### Is Rubika Smart Bot free?
+### What language is Rubika Smart Bot written in?
 
-The project is available as a GitHub software project and can be developed and customized according to the project's license.
+The project is primarily written in **Python**.
 
-### What programming language is used?
+### Does the project use asynchronous programming?
 
-The main programming language is **Python**.
-
-### Does the bot support AI?
-
-Yes. The bot includes an AI interaction system using the `+` command format.
-
-### Does the bot have a learning system?
-
-Yes. The project includes learning and custom-response functionality.
-
-### Does the bot support group security?
-
-Yes. Multiple moderation systems are included, such as Anti-Link, Anti-Advertisement, Anti-Curse, Anti-Mention, Anti-Edit, and other controls.
+Yes. The bot uses Python's `asyncio` architecture together with asynchronous Rubka functionality and HTTP clients.
 
 ### Does the bot use a database?
 
-Yes. **SQLite** is used for storing bot and group-related information.
+Yes. The project uses **SQLite** for persistent storage.
 
-### Who can use the bot?
+### Does the bot support AI?
 
-The project is primarily designed for Rubika group owners, administrators, developers, and Persian-speaking communities.
+Yes. An external AI API is integrated into the bot.
+
+### Does the bot support custom commands?
+
+Yes. Groups can create and manage custom commands and responses.
+
+### Does the bot have a learning system?
+
+Yes. The project contains both custom command functionality and an advanced learning system.
+
+### Does the bot support user levels?
+
+Yes. Users can earn XP, progress through levels, receive badges, and appear on the group leaderboard.
+
+### Is the bot designed for Persian users?
+
+Yes. The command system and primary interaction language are Persian.
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome.
+Contributions and suggestions are welcome.
 
-If you would like to improve **Rubika Smart Bot**, you can:
+You can contribute by:
 
-* 🐛 Report bugs
-* 💡 Suggest new features
-* 🔧 Improve the source code
-* 🛡️ Improve security
-* ⚡ Optimize performance
-* 📝 Improve documentation
-* 🔀 Submit Pull Requests
+* 🐛 Reporting bugs
+* 💡 Suggesting new features
+* 🔧 Improving the source code
+* ⚡ Optimizing performance
+* 🔐 Improving security
+* 📝 Improving documentation
+* 🧪 Adding tests
+* 🔀 Submitting Pull Requests
 
-Every contribution can help make the project more powerful and useful for the Rubika developer community.
+Please keep contributions focused, readable, and consistent with the project's architecture.
 
 ---
 
 # 📬 Contact
 
-## 👨‍💻 Developer
-
-### Sadra Hatami
+## 👨‍💻 Sadra Hatami
 
 📧 **Email:** `sadra.hatami.1732@gmail.com`
 
@@ -687,7 +1048,7 @@ See the `LICENSE` file for more information.
 
 All rights reserved.
 
-This project and its source code are developed and maintained by **Sadra Hatami**.
+This project is developed and maintained by **Sadra Hatami**.
 
 ---
 
@@ -701,14 +1062,6 @@ Your support helps the project grow and encourages future development.
 
 <div align="center">
 
-## Designed & developed with ❤️ for the community of mathematicians and developers in Iran and the world
-
-<br>
-
-## 👨‍💻 **Sadra Hatami**
-
-### Developer • Software Engineer • Creator
-
-⭐ If you like this project, don't forget to star the repository!
+## Designed & Developed with ❤️ for the developer community of Iran and the world by Sadra Hatami
 
 </div>
