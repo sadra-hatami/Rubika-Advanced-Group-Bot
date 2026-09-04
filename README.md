@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🤖 Rubika Smart Bot
+# Rubika Smart Bot
+# 🤖
 
 ### A Powerful Persian Rubika Group Management, Entertainment & AI Bot
 
