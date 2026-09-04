@@ -12,6 +12,21 @@ A comprehensive multifunctional Rubika bot combining advanced group management, 
 
 [🌐 GitHub](https://github.com/sadra-hatami) • [📧 Email](mailto:sadra.hatami.1732@gmail.com)
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Rubka](https://img.shields.io/badge/Rubika-Bot-8E44AD?style=for-the-badge)](https://pypi.org/)
+[![AsyncIO](https://img.shields.io/badge/AsyncIO-Asynchronous-2C3E50?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
+[![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
+[![aiohttp](https://img.shields.io/badge/aiohttp-HTTP%20Client-2C3E50?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.aiohttp.org/)
+[![Requests](https://img.shields.io/badge/Requests-HTTP%20Library-20232A?style=for-the-badge\&logo=python\&logoColor=white)](https://requests.readthedocs.io/)
+[![HTTPX](https://img.shields.io/badge/HTTPX-HTTP%20Client-5A29E4?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python-httpx.org/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Parsing-4CAF50?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
+[![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Rubika-8E44AD?style=for-the-badge)](https://rubika.ir/)
+[![AI](https://img.shields.io/badge/AI-Integrated-FF6F00?style=for-the-badge)]()
+[![Automation](https://img.shields.io/badge/Automation-Enabled-0078D6?style=for-the-badge)]()
+[![Group Management](https://img.shields.io/badge/Group%20Management-Advanced-2E7D32?style=for-the-badge)]()
+
 </div>
 
 ---
