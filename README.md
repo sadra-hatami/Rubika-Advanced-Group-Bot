@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rubika Group Bot
+# Rubika Group Bot Plus
 
 # 🤖
 
