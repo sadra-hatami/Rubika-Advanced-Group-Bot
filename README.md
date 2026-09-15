@@ -66,7 +66,7 @@ A comprehensive multifunctional Rubika bot built with Python, featuring advanced
 
 # 📖 About
 
-**Rubika Smart Bot** is a multifunctional Persian Rubika group bot developed with Python.
+**Rubika Advanced Group Bot** is a multifunctional Persian Rubika group bot developed with Python.
 
 The project combines group administration, moderation, automation, AI interaction, learning, entertainment, user progression, custom commands, information services, and persistent database storage into a single platform.
 
