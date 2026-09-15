@@ -27,6 +27,7 @@ A comprehensive multifunctional Rubika bot built with Python, featuring advanced
 [![Automation](https://img.shields.io/badge/Automation-Enabled-0078D6?style=for-the-badge)](#️-automation)
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
 
 <br>
 
