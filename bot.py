@@ -1,6 +1,3 @@
-# درود.py - نسخه فوق پیشرفته
-# ارتقا یافته با بیش از 50 قابلیت جدید مدیریتی و سرگرمی
-
 import asyncio
 import sqlite3
 import aiohttp
