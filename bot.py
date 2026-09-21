@@ -21,13 +21,13 @@ from typing import Dict, List, Tuple, Optional
 import urllib.parse
 
 DB_PATH = "chats.db"
-ADMIN_CHAT_ID = "u0HjylP09b2a4205ffa7ce2a43fa15ea"
+ADMIN_CHAT_ID = ""
 ADMIN_ID = [ADMIN_CHAT_ID]
-CHANNEL_LINK = "https://rubika.ir/joinc/ECDFCFEC0WEOIXNKGZTNFLEZIYKUHKYJ"
-CHANNEL_CREATOR = "@RTC__1228"
+CHANNEL_LINK = ""
+CHANNEL_CREATOR = ""
 AI_API_URL = "https://api-free.ir/api/chat.php"
 
-bot = Robot("IDEAF0IBIFGPVYZGXRXZTBGFEOVPJZZTFJUVQCFJXSNKLQEXLOXVJFENSDQNCQQH",enable_offset=True,max_msg_age=90000)
+bot = Robot("",enable_offset=True,max_msg_age=90000)
 
 # ==================== ساختارهای داده جدید ====================
 admin_states = {}
