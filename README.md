@@ -91,11 +91,12 @@ The current implementation is a large asynchronous Python application (`index.py
 
 These projects belong to the same Rubika / messaging collection, but they are not the same bot.
 
-| Repository | Role | Library | Where it works |
-|------------|------|---------|----------------|
-| **[Rubika Advanced Group Bot](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)** | Full group platform (this repo) | `rubka` | Rubika groups |
-| **[Rubika Group Bot](https://github.com/sadra-hatami/Rubika-Group-Bot)** | Lightweight content-lock bot | `rubka` | Rubika groups |
-| **[Telegram Rubika Account Panel](https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel)** | Telegram panel for a Rubika user account | Pyrogram + `rubpy` | Telegram → user account |
+| Repository | Role |
+|------------|------|
+| **[Countries War Bot](https://github.com/sadra-hatami/Countries-War-Bot)** | Nation strategy game (this repo) |
+| **[Rubika Group Bot](https://github.com/sadra-hatami/Rubika-Group-Bot)** | Lightweight group lock bot |
+| **[Rubika Advanced Group Bot](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)** | Full group management, automation, and extra tools |
+| **[Telegram Rubika Account Panel](https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel)** | Telegram panel for a Rubika user account |
 
 Use this repository when a group needs management, locks, games, AI, and saved settings.  
 Use **Rubika Group Bot** when only simple locks are enough.  
