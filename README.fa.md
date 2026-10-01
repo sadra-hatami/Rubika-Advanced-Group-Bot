@@ -16,7 +16,8 @@
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Rubka](https://img.shields.io/badge/Rubka-Rubika%20Bot-8E44AD?style=for-the-badge)](https://pypi.org/)
+[![Rubka](https://img.shields.io/badge/Rubka-Rubika%20Bot-8E44AD?style=for-the-badge)](https://pypi.org/project/Rubka/)
+[![Rubika](https://img.shields.io/badge/Platform-Rubika-6C3483?style=for-the-badge)](https://rubika.ir/)
 [![AsyncIO](https://img.shields.io/badge/AsyncIO-Asynchronous-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![aiohttp](https://img.shields.io/badge/aiohttp-HTTP%20Client-2C3E50?style=for-the-badge)](https://docs.aiohttp.org/)
@@ -24,15 +25,16 @@
 [![HTTPX](https://img.shields.io/badge/HTTPX-HTTP%20Client-5A29E4?style=for-the-badge)](https://www.python-httpx.org/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Parsing-4CAF50?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
 [![Jdatetime](https://img.shields.io/badge/jdatetime-Jalali%20Date-009688?style=for-the-badge)](https://pypi.org/project/jdatetime/)
-[![AI](https://img.shields.io/badge/AI-Integrated-FF6F00?style=for-the-badge)](#-ai-system)
-[![Automation](https://img.shields.io/badge/Automation-Enabled-0078D6?style=for-the-badge)](#️-automation)
-[![Moderation](https://img.shields.io/badge/Moderation-Enabled-C0392B?style=for-the-badge)](#️-security--moderation)
-[![XP](https://img.shields.io/badge/XP%20%26%20Levels-Enabled-8E44AD?style=for-the-badge)](#-levels-xp--badges)
-[![Games](https://img.shields.io/badge/Games-Enabled-E67E22?style=for-the-badge)](#-games--entertainment)
+[![AI](https://img.shields.io/badge/AI-Integrated-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Chatbot)
+[![Automation](https://img.shields.io/badge/Automation-Enabled-0078D6?style=for-the-badge)](https://en.wikipedia.org/wiki/Automation)
+[![Moderation](https://img.shields.io/badge/Moderation-Enabled-C0392B?style=for-the-badge)](https://en.wikipedia.org/wiki/Content_moderation)
+[![XP](https://img.shields.io/badge/XP%20%26%20Levels-Enabled-8E44AD?style=for-the-badge)](https://en.wikipedia.org/wiki/Experience_point)
+[![Games](https://img.shields.io/badge/Games-Enabled-E67E22?style=for-the-badge)](https://en.wikipedia.org/wiki/Minigame)
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![RTL](https://img.shields.io/badge/Direction-RTL-1ABC9C?style=for-the-badge)](https://en.wikipedia.org/wiki/Right-to-left)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
+[![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)
 
 <br>
 
