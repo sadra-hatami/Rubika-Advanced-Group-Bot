@@ -85,17 +85,18 @@ This repository now holds the newest group codebase. The previous full group pla
 
 The messaging projects in this profile now split like this:
 
-| Repository | What it is now |
-|------------|----------------|
-| **[Rubika Advanced Group Bot](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)** | Newest group platform (this repo) |
-| **[Rubika Group Bot](https://github.com/sadra-hatami/Rubika-Group-Bot)** | Previous complete group platform |
-| **[Countries War Bot](https://github.com/sadra-hatami/Countries-War-Bot)** | Nation strategy game bot |
+| Repository | Role |
+|------------|------|
+| **[World War Bot](https://github.com/sadra-hatami/World-War-Bot)** | World strategy game |
+| **[Countries War Bot](https://github.com/sadra-hatami/Countries-War-Bot)** | Earlier nation strategy game |
+| **[Rubika Group Bot](https://github.com/sadra-hatami/Rubika-Group-Bot)** | Complete group platform |
+| **[Rubika Advanced Group Bot](https://github.com/sadra-hatami/Rubika-Advanced-Group-Bot)** | Newest, larger group platform (this repo) |
 | **[Telegram Rubika Account Panel](https://github.com/sadra-hatami/Telegram-Rubika-Account-Panel)** | Telegram panel for a Rubika user account |
 
-Use this repository when a group needs the latest platform.  
-Use **Rubika Group Bot** when you want the earlier full group build.  
-Use **Countries War Bot** for the strategy game.  
-Use the **Account Panel** only for Telegram control of a user account, not for group management.
+Use **World War Bot** for the world strategy game.  
+Use **Countries War Bot** for the earlier country game.  
+Use the group bots for moderation and automation.  
+Use the **Account Panel** only to control a user account from Telegram.
 
 ---
 
